@@ -1,5 +1,6 @@
-Bot ClickViaja - Bot Travel Agency Clickviaja Estrada da Luz - Lisbon - Portugal Technologies:
+Bot ClickViaja - Bot Travel Agency Clickviaja Estrada da Luz - Lisbon - Portugal 
 
+Technologies:
 1 - Microsoft Bot Framework 
 2 - Microsoft LUIS 
 3 - Microsoft Cognitive Services Video and Image Search 
@@ -7,5 +8,5 @@ Bot ClickViaja - Bot Travel Agency Clickviaja Estrada da Luz - Lisbon - Portugal
 5 - Amadeus Service 
 6 - MongoDB
 
-
+Facebook Bot:
 https://www.messenger.com/t/600234860322336
